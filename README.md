@@ -75,4 +75,4 @@ This project analyzes Rockbuster’s operational database using SQL to answer th
 
 ## Full Analysis
 Explore the full Rockbuster analysis presentation here:
-[Rockbuster Stealth Analysis Presentation](main\Rockbustor_final_presentation)
+[Rockbuster Stealth Analysis Presentation](Rockbustor_final_presentation.pdf)
